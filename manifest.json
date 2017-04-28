@@ -7,7 +7,10 @@
     "matches": [
       "<all_urls>"
     ],
-    "js": ["content.js"]
+    "js": ["power.js", "history.js"]
   }
-  ]
+],
+"permissions": [
+  "power",
+]
 }

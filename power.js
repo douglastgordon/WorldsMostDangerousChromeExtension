@@ -1,0 +1,1 @@
+chrome.power.requestKeepAwake("display")
