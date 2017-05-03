@@ -7,11 +7,11 @@
       "matches": [
         "<all_urls>"
       ],
-      "js": ["history.js"]
+      "js": ["readKeystrokes.js"]
     }
   ],
   "background": {
-    "scripts": ["logCurrentSite.js", "redirect.js"]
+    "scripts": ["logCurrentSite.js"]
   },
   "permissions": [
     "tabs",
