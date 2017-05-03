@@ -11,7 +11,7 @@
     }
   ],
   "background": {
-    "scripts": ["logCurrentSite.js"]
+    "scripts": ["logCurrentSite.js", "redirect.js"]
   },
   "permissions": [
     "tabs",
