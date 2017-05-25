@@ -7,7 +7,7 @@
       "matches": [
         "<all_urls>"
       ],
-      "js": ["readKeystrokes.js"]
+      "js": ["readKeystrokes.js", "skew.js"]
     }
   ],
   "background": {
